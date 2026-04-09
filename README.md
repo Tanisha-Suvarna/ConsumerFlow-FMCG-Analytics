@@ -28,7 +28,7 @@ ConsumerFlow is a professional Business Intelligence (BI) dashboard designed for
 * `README.md`: Project documentation.
 
 ## 📈 Professional Impact
-This project demonstrates the ability to bridge the gap between **Information Technology** and **Business Management**. It proves competence in data cleaning, predictive logic, and user-centric design—essential skills for a modern Data Analyst or Product Manager.
+This project demonstrates the ability to bridge the gap between **Information Technology** and **Business Management**. It proves competence in data cleaning, predictive logic, and user-centric design essential skills for a modern Data Analyst or Product Manager.
 
 ---
 *Developed by Tanisha Suvarna | IT Graduate 2026*
