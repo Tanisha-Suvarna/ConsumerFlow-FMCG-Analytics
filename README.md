@@ -1,8 +1,8 @@
 # 📊 ConsumerFlow | Enterprise FMCG Supply Chain Intelligence
 
-### **"Turning Inventory Data into Strategic Decisions"**
+### **Turning Inventory Data into Strategic Decisions**
 
-ConsumerFlow is a professional Business Intelligence (BI) dashboard designed for the FMCG sector—specifically modeled after the distribution and sales logic of Indian MNCs like **Marico**. It provides real-time visibility into warehouse health, regional performance, and inventory risks.
+ConsumerFlow is a professional Business Intelligence (BI) dashboard designed for the FMCG sector specifically modeled after the distribution and sales logic of Indian MNCs like **Marico**. It provides real-time visibility into warehouse health, regional performance, and inventory risks.
 
 ---
 
