@@ -1,0 +1,14 @@
+# Python bytecode (temporary files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (if you use venv)
+.venv/
+venv/
+ENV/
+
+# Streamlit/OS junk
+.streamlit/config.toml
+.DS_Store
+.env
